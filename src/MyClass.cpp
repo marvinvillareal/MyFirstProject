@@ -26,4 +26,5 @@ void MyClass::DanBranchFunction() {
 	// asdf
 	char bb="y";
 	// commit to be checkout
+	string x = "commit checkout";
 }
