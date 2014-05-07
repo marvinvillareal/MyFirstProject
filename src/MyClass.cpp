@@ -19,7 +19,7 @@ MyClass::~MyClass() {
 	// TODO Auto-generated destructor stub
 }
 
-void MyClass::MarvinBranchFunction() {
+void MyClass::DanBranchFunction() {
 
-	cout << "fdfd";
+	cout << "Dan Dan Dan...";
 }

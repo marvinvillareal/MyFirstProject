@@ -14,7 +14,7 @@ public:
 	MyClass();
 	virtual ~MyClass();
 
-	void MarvinBranchFunction();
+	void DanBranchFunction();
 };
 
 #endif /* MYCLASS_H_ */
