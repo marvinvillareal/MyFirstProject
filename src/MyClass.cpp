@@ -22,4 +22,5 @@ MyClass::~MyClass() {
 void MyClass::DanBranchFunction() {
 
 	cout << "Dan Dan Dan...";
+	int a=0;
 }
