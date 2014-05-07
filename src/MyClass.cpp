@@ -22,7 +22,13 @@ MyClass::~MyClass() {
 void MyClass::DanBranchFunction() {
 
 	cout << "Dan Dan Dan...";
+<<<<<<< HEAD
 	int a=0;
 	// asdf
 
+=======
+
+
+	char bb="y";
+>>>>>>> origin/DanBranch
 }
