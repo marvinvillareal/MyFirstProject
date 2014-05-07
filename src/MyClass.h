@@ -8,12 +8,13 @@
 #ifndef MYCLASS_H_
 #define MYCLASS_H_
 
+
 class MyClass {
 public:
 	MyClass();
 	virtual ~MyClass();
 
-
+	void MarvinBranchFunction();
 };
 
 #endif /* MYCLASS_H_ */
