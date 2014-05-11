@@ -8,8 +8,16 @@
 #ifndef MYCLASS_H_
 #define MYCLASS_H_
 
+#include <iostream>
+using namespace std;
+
+
 
 class MyClass {
+private:
+	unsigned int a;
+	string b;
+
 public:
 	MyClass();
 	virtual ~MyClass();

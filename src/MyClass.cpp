@@ -6,23 +6,25 @@
  */
 
 #include "MyClass.h"
-#include <iostream>
-using namespace std;
 
 
 MyClass::MyClass() {
-	// TODO Auto-generated constructor stub
 
+
+	this-> a = 25 + a;
+	this-> b = "my string " + b;
+	cout << this->b;
 }
 
 MyClass::~MyClass() {
-	// TODO Auto-generated destructor stub
+
 }
+
 
 void MyClass::DanBranchFunction() {
 
 	cout << "Dan Dan Dan...";
 
 
-	char bb="y";
+
 }
